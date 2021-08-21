@@ -8,8 +8,8 @@
  [![Hesh's github stats](https://github-readme-stats.vercel.app/api?username=Hesh0629)](https://github.com/Hesh0629/github-readme-stats)   
 - BOJ [neogate](https://www.acmicpc.net/user/neogate)
 
-    [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neogate)](https://solved.ac/neogate)  
-   [![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:neogate@sogang.ac.kr)
+   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neogate)](https://solved.ac/neogate)  
+   [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:neogate@sogang.ac.kr)
    [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hesh_lumineux/)](https://www.instagram.com/hesh_lumineux/)    
 <!--
 **Hesh0629/Hesh0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
