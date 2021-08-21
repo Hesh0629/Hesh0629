@@ -3,14 +3,17 @@
 
 - :cherry_blossom: I’m currently working on ROKA
 - :cherry_blossom: I’m currently learning Data science and Computer vison.
-- :cherry_blossom: How to reach me: neogate@sogang.ac.kr
-- Github [neogate](https://github.com/Hesh0629)  
- [![Hesh's github stats](https://github-readme-stats.vercel.app/api?username=Hesh0629)](https://github.com/Hesh0629/github-readme-stats)   
-- BOJ [neogate](https://www.acmicpc.net/user/neogate)
+- :cherry_blossom: How to reach me: neogate@sogang.ac.kr  
 
-   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neogate)](https://solved.ac/neogate)  
    [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:neogate@sogang.ac.kr)
-   [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hesh_lumineux/)](https://www.instagram.com/hesh_lumineux/)    
+   [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hesh_lumineux/)](https://www.instagram.com/hesh_lumineux/)
+   ![Tistory Badge](https://img.shields.io/badge/Tistory-white.svg?style=flat-square&style=for-the-badge&logo=TVTime&logoColor=black&link=https://www.hesh-lumineux.dev/)
+   [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=neogate)](https://solved.ac/neogate)
+- Github [neogate](https://github.com/Hesh0629)  
+<img alt="Hesh's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Hesh0629&count_private=true&show_icons=true&theme=tokyonight" width="50%" />  <img alt="Hesh's GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesh0629&layout=compact&langs_count=8&theme=tokyonight" width="50%" /> 
+- BOJ [neogate](https://www.acmicpc.net/user/neogate)  
+  [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neogate)](https://solved.ac/neogate)  
+
 <!--
 **Hesh0629/Hesh0629** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
