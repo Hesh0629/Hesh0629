@@ -7,7 +7,7 @@
 
    [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:neogate@sogang.ac.kr)
    [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hesh_lumineux/)](https://www.instagram.com/hesh_lumineux/)
-   [![Tistory Badge](http://img.shields.io/badge/Tistory-white.svg?style=flat-square&style=for-the-badge&logo=TVTime&logoColor=black&link=http://www.hesh-lumineux.dev)](https://www.hesh-lumineux.dev)
+   [![Tistory Badge](http://img.shields.io/badge/Tistory-white.svg?style=flat-square&style=for-the-badge&logo=TVTime&logoColor=black&link=https://www.hesh-lumineux.dev)](https://www.hesh-lumineux.dev)
    [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=neogate)](https://solved.ac/neogate)
 - Github [neogate](https://github.com/Hesh0629)  
 <img alt="Hesh's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Hesh0629&count_private=true&show_icons=true&theme=tokyonight" box-sizing="border-box" width="48%" height="30%" /><img alt="Hesh's GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesh0629&layout=compact&langs_count=8&theme=tokyonight" box-sizing="border-box" width="40%" height="30%"/> 
