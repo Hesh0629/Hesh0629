@@ -10,7 +10,7 @@
    [![Tistory Badge](https://img.shields.io/badge/Tistory-white.svg?style=flat-square&style=for-the-badge&logo=TVTime&logoColor=black&link=http://www.hesh-lumineux.dev)](http://www.hesh-lumineux.dev)
    [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=neogate)](https://solved.ac/neogate)
 - Github [neogate](https://github.com/Hesh0629)  
-<img alt="Hesh's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Hesh0629&count_private=true&show_icons=true&theme=tokyonight" width="48%" />  <img alt="Hesh's GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesh0629&layout=compact&langs_count=8&theme=tokyonight" width="40%" /> 
+<img alt="Hesh's GitHub statistics" src="https://github-readme-stats.vercel.app/api?username=Hesh0629&count_private=true&show_icons=true&theme=tokyonight" box-sizing="border-box" width="48%" height="30%" /><img alt="Hesh's GitHub top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Hesh0629&layout=compact&langs_count=8&theme=tokyonight" box-sizing="border-box" width="40%" height="30%"/> 
 - BOJ [neogate](https://www.acmicpc.net/user/neogate)  
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neogate)](https://solved.ac/neogate)  
 
