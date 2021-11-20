@@ -1,4 +1,5 @@
 #define yee <bits/stdc++.h>
+#include yee
 #define yeee using
 #define yeeee namespace
 #define yeeeee std;
@@ -14,7 +15,6 @@ typedef int yeeeeee;
 #define yeeeeeeeeeeeeeee return
 #define yeeeeeeeeeeeeeeee 0;
 
-#include yee
 yeee yeeee yeeeee 
 yeeeeee yeeeeeee yeeeeeeee
 yeeeeeeeee yeeeeeeeeeee yeeeeeeeeeeeee yeeeeeeeeeee yeeeeeeeeeeee yeeeeeeeeeeeeee
