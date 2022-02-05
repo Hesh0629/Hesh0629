@@ -1,8 +1,8 @@
 ## 현재 머신러닝과 알고리즘을 공부중인 휴학생입니다!  
 ![image](https://user-images.githubusercontent.com/57738176/122660180-377d1a80-d1ba-11eb-8944-fa1323fe2e16.png) 
 
-- :cherry_blossom: I’m currently working on ROKA
-- :cherry_blossom: I’m currently learning DataScience and ComputerVison.
+- :cherry_blossom: I’m currently Studying Algorithms and Machine Learning.
+- :cherry_blossom: I’m interested in ComputerVison and AI in Medical Diagnosis.
 - :cherry_blossom: How to reach me: neogate@sogang.ac.kr  
 
    [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:neogate@sogang.ac.kr)
