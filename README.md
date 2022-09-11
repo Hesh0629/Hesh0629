@@ -1,4 +1,4 @@
-## 현재 머신러닝과 알고리즘을 공부중인 휴학생입니다!  
+## 현재 머신러닝과 알고리즘을 공부중인 4학기 재학생입니다!  
 ![image](https://user-images.githubusercontent.com/57738176/122660180-377d1a80-d1ba-11eb-8944-fa1323fe2e16.png) 
 
 - :cherry_blossom: I’m currently Studying Algorithms and Machine Learning.
