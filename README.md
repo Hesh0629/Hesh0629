@@ -1,9 +1,9 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20Sung-hwan%20Han&fontSize=30&animation=fadeIn&fontAlign=30&fontAlignY=40)  
-![image](https://user-images.githubusercontent.com/57738176/122660180-377d1a80-d1ba-11eb-8944-fa1323fe2e16.png) 
-
-- :cherry_blossom: I’m currently Studying at **Visual Representation Learning Lab** at Sogang Univ.
-- :cherry_blossom: My research interests are **Generative AI** and **Fake Detection**.
-- :cherry_blossom: How to reach me: neogate@sogang.ac.kr  
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20Sung-hwan%20Han&fontSize=30&animation=fadeIn&fontAlign=30&fontAlignY=40)
+## About me
+- Undergraduate student in Computer Science and Engineering at Sogang Univ
+- I’m currently Studying at **Visual Representation Learning Lab** at Sogang Univ.
+- My research interests are **Generative AI** and **Fake Detection**.
+- How to reach me: neogate@sogang.ac.kr  
 
    [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:neogate@sogang.ac.kr)
    [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hesh_lumineux/)](https://www.instagram.com/hesh_lumineux/)
