@@ -9,10 +9,13 @@
    [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hesh_lumineux/)](https://www.instagram.com/hesh_lumineux/)
    [![Tistory Badge](http://img.shields.io/badge/Tistory-white.svg?style=flat-square&style=for-the-badge&logo=TVTime&logoColor=black&link=https://hesh-lumineux.tistory.com/)](https://hesh-lumineux.tistory.com/)
    [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=neogate)](https://solved.ac/neogate)
-### Experiences
+## Experience
 - Undergraduate Intern at Visual Representation Learning Lab (Jan 2023 - )
+- [Sogang Kumdo Association](https://sgdongyeon.oopy.io/ebdb4f89-5dec-4ca7-a800-dfb3d21c3c49) (Sep 2019 - )
+  - **3rd place** at team event in Seoul University Kumdo Federation Competition (2022 spring)
 - [Release](https://github.com/SGCSRelease) (Sep 2019 - )
 - [Sogang ICPC Team](https://icpc.team/) (June 2019 - )
+  - instructor at Algorithm camp (2022 spring)
 - BOJ [neogate](https://www.acmicpc.net/user/neogate)  
   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=neogate)](https://solved.ac/neogate)
 <!--
