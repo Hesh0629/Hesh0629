@@ -1,6 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20Sung-hwan%20Han&fontSize=30&animation=fadeIn&fontAlign=30&fontAlignY=40)
 ## About me
-- Undergraduate student in Computer Science and Engineering at Sogang Univ
+- Undergraduate student in Computer Science and Engineering at Sogang Univ.
 - I’m currently Studying at **Visual Representation Learning Lab** at Sogang Univ.
 - My research interests are **Generative AI** and **Fake Detection**.
 - How to reach me: sunghwan.h.han@gmail.com  
