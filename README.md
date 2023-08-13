@@ -3,9 +3,9 @@
 - Undergraduate student in Computer Science and Engineering at Sogang Univ
 - I’m currently Studying at **Visual Representation Learning Lab** at Sogang Univ.
 - My research interests are **Generative AI** and **Fake Detection**.
-- How to reach me: neogate@sogang.ac.kr  
+- How to reach me: sunghwan.h.han@gmail.com  
 
-   [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:neogate@sogang.ac.kr)
+   [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:sunghwan.h.han@gmail.com)
    [![Instagram Badge](https://img.shields.io/badge/Instagram-e4405f?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hesh_lumineux/)](https://www.instagram.com/hesh_lumineux/)
    [![Tistory Badge](http://img.shields.io/badge/Tistory-white.svg?style=flat-square&style=for-the-badge&logo=TVTime&logoColor=black&link=https://hesh-lumineux.tistory.com/)](https://hesh-lumineux.tistory.com/)
    [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=neogate)](https://solved.ac/neogate)
