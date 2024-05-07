@@ -2,7 +2,7 @@
 ## About me
 - Undergraduate student in **Computer Science and Engineering** at Sogang Univ.
 - I’m currently Studying at **Visual Representation Learning Lab** at Sogang Univ.
-- My research interests are **Generative AI** and **Fake Detection**.
+- My research interests are **Generative AI** and **Multi-modal LLM**.
 - How to reach me: sunghwan.h.han@gmail.com  
 
    [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:sunghwan.h.han@gmail.com)
