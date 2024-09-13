@@ -1,8 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hello!%20I'm%20Sung-hwan%20Han&fontSize=30&animation=fadeIn&fontAlign=30&fontAlignY=40&customColorList=18)
 ## About me
 - Undergraduate student in **Computer Science and Engineering** at Sogang Univ.
-- I’m currently Studying at **Visual Representation Learning Lab** at Sogang Univ.
-- My research interests are **Generative AI** and **Multi-modal LLM**.
+<!-- My research interests are **Generative AI** and **Multi-modal LLM**. -->
 - How to reach me: sunghwan.h.han@gmail.com  
 
    [![Email Badge](https://img.shields.io/badge/-Email-EA4335?style=flat-square&logo=Gmail&logoColor=white)](mailto:sunghwan.h.han@gmail.com)
