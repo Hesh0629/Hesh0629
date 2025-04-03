@@ -9,7 +9,6 @@
    [![Tistory Badge](http://img.shields.io/badge/Tistory-white.svg?style=flat-square&style=for-the-badge&logo=TVTime&logoColor=black&link=https://hesh-lumineux.tistory.com/)](https://hesh-lumineux.tistory.com/)
    [![Solved.ac 프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj=neogate)](https://solved.ac/neogate)
 ## Experience
-- Undergraduate Intern at **Visual Representation Learning Lab** (Jan 2023 - June 2024)
 - [Sogang Kumdo Association](https://sgdongyeon.oopy.io/ebdb4f89-5dec-4ca7-a800-dfb3d21c3c49) (Sep 2019 - )
   - ***🥉3rd place*** at team event in Seoul University Kumdo Federation Competition (2022 spring)
 - [Release](https://github.com/SGCSRelease) (Sep 2019 - )
